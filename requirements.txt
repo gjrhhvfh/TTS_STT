@@ -1,0 +1,5 @@
+flask
+sherpa-onnx
+gtts
+gunicorn
+numpy
